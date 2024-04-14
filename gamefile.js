@@ -67,6 +67,8 @@ button3.onclick = goTown;
 }
 }
 
-function update(location) {
-  const locations = []
-}
+const locations = [
+  {
+    name: "town square"
+  }
+];
