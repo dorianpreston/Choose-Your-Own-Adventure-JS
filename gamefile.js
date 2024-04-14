@@ -66,3 +66,7 @@ button2.onclick = buyWeapon;
 button3.onclick = goTown;
 }
 }
+
+function update(location) {
+  const locations = []
+}
