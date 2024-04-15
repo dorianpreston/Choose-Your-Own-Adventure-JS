@@ -69,6 +69,7 @@ button3.onclick = goTown;
 
 const locations = [
   {
-    name: "town square"
+    name: "town square",
+    "button text": ["Go to store", "Go to cave", "Fight dragon"]
   }
 ];
